@@ -1,5 +1,4 @@
 import React from 'react';
-import Price from './Price';
 import ButtonRed from '../Button/ButtonRed';
 import ButtonBlue from '../Button/ButtonBlue';
 
